@@ -1,0 +1,1267 @@
+{
+ "defaultCaption": "Eryn drafts your follow-ups as soon as a lead comes in. You read it and hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+ "items": [
+  {
+   "id": "launch_reel_01_followups",
+   "kind": "reel",
+   "title": "Launch reel 01 followups",
+   "group": "Launch",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/launch_reel_01_followups.mp4"
+   ],
+   "thumb": "ig/t/launch_reel_01_followups.jpg"
+  },
+  {
+   "id": "launch_reel_02_email_workload",
+   "kind": "reel",
+   "title": "Launch reel 02 email workload",
+   "group": "Launch",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/launch_reel_02_email_workload.mp4"
+   ],
+   "thumb": "ig/t/launch_reel_02_email_workload.jpg"
+  },
+  {
+   "id": "launch_reel_03_crm_maintenance",
+   "kind": "reel",
+   "title": "Launch reel 03 crm maintenance",
+   "group": "Launch",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/launch_reel_03_crm_maintenance.mp4"
+   ],
+   "thumb": "ig/t/launch_reel_03_crm_maintenance.jpg"
+  },
+  {
+   "id": "launch_reel_04_ai_employee",
+   "kind": "reel",
+   "title": "Launch reel 04 ai employee",
+   "group": "Launch",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/launch_reel_04_ai_employee.mp4"
+   ],
+   "thumb": "ig/t/launch_reel_04_ai_employee.jpg"
+  },
+  {
+   "id": "launch_static_01_followups",
+   "kind": "static",
+   "title": "Launch static 01 followups",
+   "group": "Launch",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/launch_static_01_followups.jpg"
+   ],
+   "thumb": "ig/t/launch_static_01_followups.jpg"
+  },
+  {
+   "id": "launch_static_02_approval",
+   "kind": "static",
+   "title": "Launch static 02 approval",
+   "group": "Launch",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/launch_static_02_approval.jpg"
+   ],
+   "thumb": "ig/t/launch_static_02_approval.jpg"
+  },
+  {
+   "id": "launch_static_03_replies",
+   "kind": "static",
+   "title": "Launch static 03 replies",
+   "group": "Launch",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/launch_static_03_replies.jpg"
+   ],
+   "thumb": "ig/t/launch_static_03_replies.jpg"
+  },
+  {
+   "id": "launch_static_06_manifesto",
+   "kind": "static",
+   "title": "Launch static 06 manifesto",
+   "group": "Launch",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/launch_static_06_manifesto.jpg"
+   ],
+   "thumb": "ig/t/launch_static_06_manifesto.jpg"
+  },
+  {
+   "id": "reel_01_who_follows_up",
+   "kind": "reel",
+   "title": "Who follows up",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_01_who_follows_up.mp4"
+   ],
+   "thumb": "ig/t/reel_01_who_follows_up.jpg"
+  },
+  {
+   "id": "reel_02_947pm",
+   "kind": "reel",
+   "title": "947pm",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_02_947pm.mp4"
+   ],
+   "thumb": "ig/t/reel_02_947pm.jpg"
+  },
+  {
+   "id": "reel_03_where_from",
+   "kind": "reel",
+   "title": "Where from",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_03_where_from.mp4"
+   ],
+   "thumb": "ig/t/reel_03_where_from.jpg"
+  },
+  {
+   "id": "reel_04_clear_followups",
+   "kind": "reel",
+   "title": "Clear followups",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_04_clear_followups.mp4"
+   ],
+   "thumb": "ig/t/reel_04_clear_followups.jpg"
+  },
+  {
+   "id": "reel_05_update_it",
+   "kind": "reel",
+   "title": "Update it",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_05_update_it.mp4"
+   ],
+   "thumb": "ig/t/reel_05_update_it.jpg"
+  },
+  {
+   "id": "reel_06_deals",
+   "kind": "reel",
+   "title": "Deals",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_06_deals.mp4"
+   ],
+   "thumb": "ig/t/reel_06_deals.jpg"
+  },
+  {
+   "id": "reel_07_assistant",
+   "kind": "reel",
+   "title": "Assistant",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_07_assistant.mp4"
+   ],
+   "thumb": "ig/t/reel_07_assistant.jpg"
+  },
+  {
+   "id": "reel_08_nothing_sends",
+   "kind": "reel",
+   "title": "Nothing sends",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_08_nothing_sends.mp4"
+   ],
+   "thumb": "ig/t/reel_08_nothing_sends.jpg"
+  },
+  {
+   "id": "reel_09_going_cold",
+   "kind": "reel",
+   "title": "Going cold",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_09_going_cold.mp4"
+   ],
+   "thumb": "ig/t/reel_09_going_cold.jpg"
+  },
+  {
+   "id": "reel_10_ai_employee",
+   "kind": "reel",
+   "title": "Ai employee",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_10_ai_employee.mp4"
+   ],
+   "thumb": "ig/t/reel_10_ai_employee.jpg"
+  },
+  {
+   "id": "reel_11_no_assistant",
+   "kind": "reel",
+   "title": "No assistant",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_11_no_assistant.mp4"
+   ],
+   "thumb": "ig/t/reel_11_no_assistant.jpg"
+  },
+  {
+   "id": "reel_12_fortune",
+   "kind": "reel",
+   "title": "Fortune",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_12_fortune.mp4"
+   ],
+   "thumb": "ig/t/reel_12_fortune.jpg"
+  },
+  {
+   "id": "reel_13_one_slow_reply",
+   "kind": "reel",
+   "title": "One slow reply",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_13_one_slow_reply.mp4"
+   ],
+   "thumb": "ig/t/reel_13_one_slow_reply.jpg"
+  },
+  {
+   "id": "reel_14_meant_to_send",
+   "kind": "reel",
+   "title": "Meant to send",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_14_meant_to_send.mp4"
+   ],
+   "thumb": "ig/t/reel_14_meant_to_send.jpg"
+  },
+  {
+   "id": "reel_15_paid_for_lead",
+   "kind": "reel",
+   "title": "Paid for lead",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_15_paid_for_lead.mp4"
+   ],
+   "thumb": "ig/t/reel_15_paid_for_lead.jpg"
+  },
+  {
+   "id": "reel_16_go_quiet",
+   "kind": "reel",
+   "title": "Go quiet",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_16_go_quiet.mp4"
+   ],
+   "thumb": "ig/t/reel_16_go_quiet.jpg"
+  },
+  {
+   "id": "reel_17_asleep",
+   "kind": "reel",
+   "title": "Asleep",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_17_asleep.mp4"
+   ],
+   "thumb": "ig/t/reel_17_asleep.jpg"
+  },
+  {
+   "id": "reel_18_open_house",
+   "kind": "reel",
+   "title": "Open house",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_18_open_house.mp4"
+   ],
+   "thumb": "ig/t/reel_18_open_house.jpg"
+  },
+  {
+   "id": "reel_31_every_source",
+   "kind": "reel",
+   "title": "Every source",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_31_every_source.mp4"
+   ],
+   "thumb": "ig/t/reel_31_every_source.jpg"
+  },
+  {
+   "id": "reel_38_pipeline_moves",
+   "kind": "reel",
+   "title": "Pipeline moves",
+   "group": "Organic reels",
+   "date": null,
+   "caption": null,
+   "files": [
+    "r/reel_38_pipeline_moves.mp4"
+   ],
+   "thumb": "ig/t/reel_38_pipeline_moves.jpg"
+  },
+  {
+   "id": "static_11",
+   "kind": "static",
+   "title": "Static_11",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_11.jpg"
+   ],
+   "thumb": "ig/t/static_11.jpg"
+  },
+  {
+   "id": "static_12",
+   "kind": "static",
+   "title": "Static_12",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_12.jpg"
+   ],
+   "thumb": "ig/t/static_12.jpg"
+  },
+  {
+   "id": "static_13",
+   "kind": "static",
+   "title": "Static_13",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_13.jpg"
+   ],
+   "thumb": "ig/t/static_13.jpg"
+  },
+  {
+   "id": "static_14",
+   "kind": "static",
+   "title": "Static_14",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_14.jpg"
+   ],
+   "thumb": "ig/t/static_14.jpg"
+  },
+  {
+   "id": "static_15",
+   "kind": "static",
+   "title": "Static_15",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_15.jpg"
+   ],
+   "thumb": "ig/t/static_15.jpg"
+  },
+  {
+   "id": "static_16",
+   "kind": "static",
+   "title": "Static_16",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_16.jpg"
+   ],
+   "thumb": "ig/t/static_16.jpg"
+  },
+  {
+   "id": "static_17",
+   "kind": "static",
+   "title": "Static_17",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_17.jpg"
+   ],
+   "thumb": "ig/t/static_17.jpg"
+  },
+  {
+   "id": "static_18",
+   "kind": "static",
+   "title": "Static_18",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_18.jpg"
+   ],
+   "thumb": "ig/t/static_18.jpg"
+  },
+  {
+   "id": "static_19",
+   "kind": "static",
+   "title": "Static_19",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_19.jpg"
+   ],
+   "thumb": "ig/t/static_19.jpg"
+  },
+  {
+   "id": "static_20",
+   "kind": "static",
+   "title": "Static_20",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_20.jpg"
+   ],
+   "thumb": "ig/t/static_20.jpg"
+  },
+  {
+   "id": "static_21",
+   "kind": "static",
+   "title": "Static_21",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_21.jpg"
+   ],
+   "thumb": "ig/t/static_21.jpg"
+  },
+  {
+   "id": "static_22",
+   "kind": "static",
+   "title": "Static_22",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_22.jpg"
+   ],
+   "thumb": "ig/t/static_22.jpg"
+  },
+  {
+   "id": "static_23",
+   "kind": "static",
+   "title": "Static_23",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_23.jpg"
+   ],
+   "thumb": "ig/t/static_23.jpg"
+  },
+  {
+   "id": "static_24",
+   "kind": "static",
+   "title": "Static_24",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_24.jpg"
+   ],
+   "thumb": "ig/t/static_24.jpg"
+  },
+  {
+   "id": "static_25",
+   "kind": "static",
+   "title": "Static_25",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_25.jpg"
+   ],
+   "thumb": "ig/t/static_25.jpg"
+  },
+  {
+   "id": "static_26",
+   "kind": "static",
+   "title": "Static_26",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_26.jpg"
+   ],
+   "thumb": "ig/t/static_26.jpg"
+  },
+  {
+   "id": "static_27",
+   "kind": "static",
+   "title": "Static_27",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_27.jpg"
+   ],
+   "thumb": "ig/t/static_27.jpg"
+  },
+  {
+   "id": "static_28",
+   "kind": "static",
+   "title": "Static_28",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_28.jpg"
+   ],
+   "thumb": "ig/t/static_28.jpg"
+  },
+  {
+   "id": "static_29",
+   "kind": "static",
+   "title": "Static_29",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_29.jpg"
+   ],
+   "thumb": "ig/t/static_29.jpg"
+  },
+  {
+   "id": "static_30",
+   "kind": "static",
+   "title": "Static_30",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_30.jpg"
+   ],
+   "thumb": "ig/t/static_30.jpg"
+  },
+  {
+   "id": "static_31",
+   "kind": "static",
+   "title": "Static_31",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_31.jpg"
+   ],
+   "thumb": "ig/t/static_31.jpg"
+  },
+  {
+   "id": "static_32",
+   "kind": "static",
+   "title": "Static_32",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_32.jpg"
+   ],
+   "thumb": "ig/t/static_32.jpg"
+  },
+  {
+   "id": "static_33",
+   "kind": "static",
+   "title": "Static_33",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_33.jpg"
+   ],
+   "thumb": "ig/t/static_33.jpg"
+  },
+  {
+   "id": "static_34",
+   "kind": "static",
+   "title": "Static_34",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_34.jpg"
+   ],
+   "thumb": "ig/t/static_34.jpg"
+  },
+  {
+   "id": "static_35",
+   "kind": "static",
+   "title": "Static_35",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_35.jpg"
+   ],
+   "thumb": "ig/t/static_35.jpg"
+  },
+  {
+   "id": "static_36",
+   "kind": "static",
+   "title": "Static_36",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_36.jpg"
+   ],
+   "thumb": "ig/t/static_36.jpg"
+  },
+  {
+   "id": "static_37",
+   "kind": "static",
+   "title": "Static_37",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_37.jpg"
+   ],
+   "thumb": "ig/t/static_37.jpg"
+  },
+  {
+   "id": "static_38",
+   "kind": "static",
+   "title": "Static_38",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_38.jpg"
+   ],
+   "thumb": "ig/t/static_38.jpg"
+  },
+  {
+   "id": "static_39",
+   "kind": "static",
+   "title": "Static_39",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_39.jpg"
+   ],
+   "thumb": "ig/t/static_39.jpg"
+  },
+  {
+   "id": "static_40",
+   "kind": "static",
+   "title": "Static_40",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_40.jpg"
+   ],
+   "thumb": "ig/t/static_40.jpg"
+  },
+  {
+   "id": "static_41",
+   "kind": "static",
+   "title": "Static_41",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_41.jpg"
+   ],
+   "thumb": "ig/t/static_41.jpg"
+  },
+  {
+   "id": "static_42",
+   "kind": "static",
+   "title": "Static_42",
+   "group": "Organic statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/static_42.jpg"
+   ],
+   "thumb": "ig/t/static_42.jpg"
+  },
+  {
+   "id": "hook_01_address_book",
+   "kind": "static",
+   "title": "Hook 01 address book",
+   "group": "Hook statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/hook_01_address_book.jpg"
+   ],
+   "thumb": "ig/t/hook_01_address_book.jpg"
+  },
+  {
+   "id": "hook_02_database",
+   "kind": "static",
+   "title": "Hook 02 database",
+   "group": "Hook statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/hook_02_database.jpg"
+   ],
+   "thumb": "ig/t/hook_02_database.jpg"
+  },
+  {
+   "id": "hook_03_checking_in",
+   "kind": "static",
+   "title": "Hook 03 checking in",
+   "group": "Hook statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/hook_03_checking_in.jpg"
+   ],
+   "thumb": "ig/t/hook_03_checking_in.jpg"
+  },
+  {
+   "id": "hook_04_inbox",
+   "kind": "static",
+   "title": "Hook 04 inbox",
+   "group": "Hook statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/hook_04_inbox.jpg"
+   ],
+   "thumb": "ig/t/hook_04_inbox.jpg"
+  },
+  {
+   "id": "hook_05_past_clients",
+   "kind": "static",
+   "title": "Hook 05 past clients",
+   "group": "Hook statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/hook_05_past_clients.jpg"
+   ],
+   "thumb": "ig/t/hook_05_past_clients.jpg"
+  },
+  {
+   "id": "hook_06_update_it",
+   "kind": "static",
+   "title": "Hook 06 update it",
+   "group": "Hook statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/hook_06_update_it.jpg"
+   ],
+   "thumb": "ig/t/hook_06_update_it.jpg"
+  },
+  {
+   "id": "hook_07_lead_source",
+   "kind": "static",
+   "title": "Hook 07 lead source",
+   "group": "Hook statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/hook_07_lead_source.jpg"
+   ],
+   "thumb": "ig/t/hook_07_lead_source.jpg"
+  },
+  {
+   "id": "hook_08_four_sundays",
+   "kind": "static",
+   "title": "Hook 08 four sundays",
+   "group": "Hook statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/hook_08_four_sundays.jpg"
+   ],
+   "thumb": "ig/t/hook_08_four_sundays.jpg"
+  },
+  {
+   "id": "hook_09_947pm",
+   "kind": "static",
+   "title": "Hook 09 947pm",
+   "group": "Hook statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/hook_09_947pm.jpg"
+   ],
+   "thumb": "ig/t/hook_09_947pm.jpg"
+  },
+  {
+   "id": "hook_10_no_assistant",
+   "kind": "static",
+   "title": "Hook 10 no assistant",
+   "group": "Hook statics",
+   "date": null,
+   "caption": null,
+   "files": [
+    "s/hook_10_no_assistant.jpg"
+   ],
+   "thumb": "ig/t/hook_10_no_assistant.jpg"
+  },
+  {
+   "id": "reel_19_spring_seller",
+   "kind": "reel",
+   "title": "Spring seller",
+   "group": "Daily 11/13",
+   "date": "2026-11-13",
+   "caption": "A seller said \"maybe in spring.\" Then spring came and they listed with someone else.\nEryn flags leads that go quiet and drafts the check-in. You review it and send it.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_19_spring_seller.mp4"
+   ],
+   "thumb": "ig/t/reel_19_spring_seller.jpg"
+  },
+  {
+   "id": "reel_24_showing_closing",
+   "kind": "reel",
+   "title": "Showing closing",
+   "group": "Daily 11/13",
+   "date": "2026-11-13",
+   "caption": "Showing at 4. Closing at 6. Follow-ups at never?\nEryn drafts them while you work. You read them and send in one click.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_24_showing_closing.mp4"
+   ],
+   "thumb": "ig/t/reel_24_showing_closing.jpg"
+  },
+  {
+   "id": "reel_25_8pm",
+   "kind": "reel",
+   "title": "8pm",
+   "group": "Daily 11/13",
+   "date": "2026-11-13",
+   "caption": "8 PM and the inbox is still open?\nEryn drafts the replies. Change any of them by just asking, then click Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_25_8pm.mp4"
+   ],
+   "thumb": "ig/t/reel_25_8pm.jpg"
+  },
+  {
+   "id": "static_rc43",
+   "kind": "static",
+   "title": "Rc43",
+   "group": "Daily 11/13",
+   "date": "2026-11-13",
+   "caption": "A seller said \"maybe in spring.\" Spring came. They listed with someone else.\nThe fix is one check-in at the right time. Eryn drafts it. (Example math, sources on the image.)\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/static_rc43.jpg"
+   ],
+   "thumb": "ig/t/static_rc43.jpg"
+  },
+  {
+   "id": "static_rc44",
+   "kind": "static",
+   "title": "Rc44",
+   "group": "Daily 11/13",
+   "date": "2026-11-13",
+   "caption": "Took Saturday off? Your leads didn't. Whoever replies first usually gets the showing.\nEryn drafts the replies so your weekend doesn't cost you a buyer. (Example math, sources on the image.)\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/static_rc44.jpg"
+   ],
+   "thumb": "ig/t/static_rc44.jpg"
+  },
+  {
+   "id": "static_sx100",
+   "kind": "static",
+   "title": "Sx100",
+   "group": "Daily 11/13",
+   "date": "2026-11-13",
+   "caption": "What to send a lead who went quiet: one short question they can answer in a word.\nSave this. Eryn drafts it from what they already told you.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/static_sx100.jpg"
+   ],
+   "thumb": "ig/t/static_sx100.jpg"
+  },
+  {
+   "id": "static_sx103",
+   "kind": "static",
+   "title": "Sx103",
+   "group": "Daily 11/13",
+   "date": "2026-11-13",
+   "caption": "Showing at 4. Closing at 6. Follow-ups at never?\nEryn drafts them while you work. You review and send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/static_sx103.jpg"
+   ],
+   "thumb": "ig/t/static_sx103.jpg"
+  },
+  {
+   "id": "static_sx104",
+   "kind": "static",
+   "title": "Sx104",
+   "group": "Daily 11/13",
+   "date": "2026-11-13",
+   "caption": "First email drafted before you even saw the lead.\nNew leads get a reply drafted as soon as they land. Nothing sends until you click.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/static_sx104.jpg"
+   ],
+   "thumb": "ig/t/static_sx104.jpg"
+  },
+  {
+   "id": "static_sx106",
+   "kind": "static",
+   "title": "Sx106",
+   "group": "Daily 11/13",
+   "date": "2026-11-13",
+   "caption": "8 PM. Inbox still open?\nEryn drafts the replies so you can close the laptop.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/static_sx106.jpg"
+   ],
+   "thumb": "ig/t/static_sx106.jpg"
+  },
+  {
+   "id": "reel_27_still_available",
+   "kind": "reel",
+   "title": "Still available",
+   "group": "Daily 11/14",
+   "date": "2026-11-14",
+   "caption": "They asked \u201cis it still available?\u201d on Tuesday. You answered Thursday.\nEryn drafts the reply as soon as the lead lands. You read it and hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_27_still_available.mp4"
+   ],
+   "thumb": "ig/t/reel_27_still_available.jpg"
+  },
+  {
+   "id": "reel_28_price_drop",
+   "kind": "reel",
+   "title": "Price drop",
+   "group": "Daily 11/14",
+   "date": "2026-11-14",
+   "caption": "The price dropped Tuesday. Did the buyers who asked about it hear from you?\nAsk Eryn to draft the emails. You review and send the same day.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_28_price_drop.mp4"
+   ],
+   "thumb": "ig/t/reel_28_price_drop.jpg"
+  },
+  {
+   "id": "reel_29_sounds_good",
+   "kind": "reel",
+   "title": "Sounds good",
+   "group": "Daily 11/14",
+   "date": "2026-11-14",
+   "caption": "They said \u201csounds good, let's talk.\u201d Then nobody sent the next email.\nEryn drafts the next one from what they said. Fix a line if you want, then hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_29_sounds_good.mp4"
+   ],
+   "thumb": "ig/t/reel_29_sounds_good.jpg"
+  },
+  {
+   "id": "reel_30_weekend_v2",
+   "kind": "reel",
+   "title": "Weekend",
+   "group": "Daily 11/14",
+   "date": "2026-11-14",
+   "caption": "Took Saturday off? Your leads didn't.\nWith Eryn, the replies are drafted over the weekend. You review them and hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_30_weekend_v2.mp4"
+   ],
+   "thumb": "ig/t/reel_30_weekend_v2.jpg"
+  },
+  {
+   "id": "reel_32_let_me_know",
+   "kind": "reel",
+   "title": "Let me know",
+   "group": "Daily 11/14",
+   "date": "2026-11-14",
+   "caption": "Stop ending your emails with \u201clet me know.\u201d\nAsk one question they can answer in a word, like \u201cIs Saturday at 10 still good?\u201d Eryn drafts them that way.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_32_let_me_know.mp4"
+   ],
+   "thumb": "ig/t/reel_32_let_me_know.jpg"
+  },
+  {
+   "id": "reel_33_busy_week",
+   "kind": "reel",
+   "title": "Busy week",
+   "group": "Daily 11/14",
+   "date": "2026-11-14",
+   "caption": "Busy week? That's usually when follow-ups slip.\nEryn drafts them while you're at closings. You send them when you're back.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_33_busy_week.mp4"
+   ],
+   "thumb": "ig/t/reel_33_busy_week.jpg"
+  },
+  {
+   "id": "static_rc47",
+   "kind": "static",
+   "title": "Rc47",
+   "group": "Daily 11/14",
+   "date": "2026-11-14",
+   "caption": "They asked Tuesday. You answered Thursday. By then they'd toured it with the listing agent.\n(Example math, sources on the image.) Eryn drafts the first reply so you're never two days late.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/static_rc47.jpg"
+   ],
+   "thumb": "ig/t/static_rc47.jpg"
+  },
+  {
+   "id": "static_rc50",
+   "kind": "static",
+   "title": "Rc50",
+   "group": "Daily 11/14",
+   "date": "2026-11-14",
+   "caption": "They said \u201csounds good.\u201d Then nobody sent the next email.\n(Example math, sources on the image.) Eryn drafts the next email from what they said.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/static_rc50.jpg"
+   ],
+   "thumb": "ig/t/static_rc50.jpg"
+  },
+  {
+   "id": "static_sx108",
+   "kind": "static",
+   "title": "Sx108",
+   "group": "Daily 11/14",
+   "date": "2026-11-14",
+   "caption": "The lead you meant to email back is still waiting.\nEryn drafts the reply. You hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/static_sx108.jpg"
+   ],
+   "thumb": "ig/t/static_sx108.jpg"
+  },
+  {
+   "id": "static_sx110",
+   "kind": "static",
+   "title": "Sx110",
+   "group": "Daily 11/14",
+   "date": "2026-11-14",
+   "caption": "Save this: end your follow-ups with a question they can answer in one word.\nEryn drafts them that way, you review and send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/static_sx110.jpg"
+   ],
+   "thumb": "ig/t/static_sx110.jpg"
+  },
+  {
+   "id": "static_sx114",
+   "kind": "static",
+   "title": "Sx114",
+   "group": "Daily 11/14",
+   "date": "2026-11-14",
+   "caption": "Busy season is when follow-ups die.\nEryn keeps drafting while you're at closings. You review and send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/static_sx114.jpg"
+   ],
+   "thumb": "ig/t/static_sx114.jpg"
+  },
+  {
+   "id": "carousel_price_drop",
+   "kind": "carousel",
+   "title": "Price drop",
+   "group": "Daily 11/14",
+   "date": "2026-11-14",
+   "caption": "The price dropped. The buyers who asked about it never heard from you. Swipe for the same Tuesday with Eryn.\n(Example math, sources on slide 1.)\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/carousel_price_drop_1.jpg",
+    "s/carousel_price_drop_2.jpg"
+   ],
+   "thumb": "ig/t/carousel_price_drop.jpg"
+  },
+  {
+   "id": "reel_36_saved_four",
+   "kind": "reel",
+   "title": "Saved four",
+   "group": "Daily 11/15",
+   "date": "2026-11-15",
+   "caption": "She saved 4 homes and never asked to see one. Nobody offered her a tour.\nEryn drafts the tour email (\"Saturday at 10?\"). You hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_36_saved_four.mp4"
+   ],
+   "thumb": "ig/t/reel_36_saved_four.jpg"
+  },
+  {
+   "id": "static_rc51",
+   "kind": "static",
+   "title": "Rc51",
+   "group": "Daily 11/15",
+   "date": "2026-11-15",
+   "caption": "Two showings. No offer. And nobody asked what was holding them back.\n(Example math, sources on the image.) Eryn drafts the follow-up so it actually goes out.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/static_rc51.jpg"
+   ],
+   "thumb": "ig/t/static_rc51.jpg"
+  },
+  {
+   "id": "static_rc53",
+   "kind": "static",
+   "title": "Rc53",
+   "group": "Daily 11/15",
+   "date": "2026-11-15",
+   "caption": "They asked about the same house twice. Then they stopped asking.\n(Example math, sources on the image.) Eryn drafts the reply so the second question never goes unanswered.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/static_rc53.jpg"
+   ],
+   "thumb": "ig/t/static_rc53.jpg"
+  },
+  {
+   "id": "carousel_saved_homes",
+   "kind": "carousel",
+   "title": "Saved homes",
+   "group": "Daily 11/15",
+   "date": "2026-11-15",
+   "caption": "She saved 4 homes and never asked to see one. Swipe to see the tour email Eryn drafted.\n(Example math, sources on slide 1.)\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/carousel_saved_homes_1.jpg",
+    "s/carousel_saved_homes_2.jpg"
+   ],
+   "thumb": "ig/t/carousel_saved_homes.jpg"
+  },
+  {
+   "id": "reel_40_sunday_lead",
+   "kind": "reel",
+   "title": "Sunday lead",
+   "group": "Daily 11/16",
+   "date": "2026-11-16",
+   "caption": null,
+   "files": [
+    "r/reel_40_sunday_lead.mp4"
+   ],
+   "thumb": "ig/t/reel_40_sunday_lead.jpg"
+  },
+  {
+   "id": "reel_41_newsletter",
+   "kind": "reel",
+   "title": "Newsletter",
+   "group": "Daily 11/16",
+   "date": "2026-11-16",
+   "caption": null,
+   "files": [
+    "r/reel_41_newsletter.mp4"
+   ],
+   "thumb": "ig/t/reel_41_newsletter.jpg"
+  },
+  {
+   "id": "reel_42_list_for",
+   "kind": "reel",
+   "title": "List for",
+   "group": "Daily 11/16",
+   "date": "2026-11-16",
+   "caption": null,
+   "files": [
+    "r/reel_42_list_for.mp4"
+   ],
+   "thumb": "ig/t/reel_42_list_for.jpg"
+  },
+  {
+   "id": "static_rc55",
+   "kind": "static",
+   "title": "Rc55",
+   "group": "Daily 11/16",
+   "date": "2026-11-16",
+   "caption": null,
+   "files": [
+    "s/static_rc55.jpg"
+   ],
+   "thumb": "ig/t/static_rc55.jpg"
+  },
+  {
+   "id": "static_rc56",
+   "kind": "static",
+   "title": "Rc56",
+   "group": "Daily 11/16",
+   "date": "2026-11-16",
+   "caption": null,
+   "files": [
+    "s/static_rc56.jpg"
+   ],
+   "thumb": "ig/t/static_rc56.jpg"
+  },
+  {
+   "id": "static_rc57",
+   "kind": "static",
+   "title": "Rc57",
+   "group": "Daily 11/16",
+   "date": "2026-11-16",
+   "caption": null,
+   "files": [
+    "s/static_rc57.jpg"
+   ],
+   "thumb": "ig/t/static_rc57.jpg"
+  },
+  {
+   "id": "static_rc58",
+   "kind": "static",
+   "title": "Rc58",
+   "group": "Daily 11/16",
+   "date": "2026-11-16",
+   "caption": null,
+   "files": [
+    "s/static_rc58.jpg"
+   ],
+   "thumb": "ig/t/static_rc58.jpg"
+  },
+  {
+   "id": "static_sx123",
+   "kind": "static",
+   "title": "Sx123",
+   "group": "Daily 11/16",
+   "date": "2026-11-16",
+   "caption": null,
+   "files": [
+    "s/static_sx123.jpg"
+   ],
+   "thumb": "ig/t/static_sx123.jpg"
+  },
+  {
+   "id": "static_sx124",
+   "kind": "static",
+   "title": "Sx124",
+   "group": "Daily 11/16",
+   "date": "2026-11-16",
+   "caption": null,
+   "files": [
+    "s/static_sx124.jpg"
+   ],
+   "thumb": "ig/t/static_sx124.jpg"
+  },
+  {
+   "id": "static_sx125",
+   "kind": "static",
+   "title": "Sx125",
+   "group": "Daily 11/16",
+   "date": "2026-11-16",
+   "caption": null,
+   "files": [
+    "s/static_sx125.jpg"
+   ],
+   "thumb": "ig/t/static_sx125.jpg"
+  }
+ ]
+}
