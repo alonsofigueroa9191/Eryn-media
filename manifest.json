@@ -2,6 +2,75 @@
  "defaultCaption": "Eryn drafts your follow-ups as soon as a lead comes in. You read it and hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
  "items": [
   {
+   "id": "reel_61_still_available",
+   "kind": "reel",
+   "title": "“Is it still available?” You replied two days later.",
+   "group": "Daily 11/18",
+   "date": "2026-11-18",
+   "caption": "A Zillow lead asked: “Is it still available?” You replied two days later. They bought with another agent.\nEryn drafts the reply the day they ask. You read it and hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_61_still_available.mp4"
+   ]
+  },
+  {
+   "id": "reel_57_preapproved",
+   "kind": "reel",
+   "title": "“Just got pre-approved.” You replied three days later.",
+   "group": "Daily 11/18",
+   "date": "2026-11-18",
+   "caption": "A buyer wrote: “Just got pre-approved. Can we start looking?” You replied three days later.\nEryn drafts the reply the day they ask and offers a time to tour. You hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_57_preapproved.mp4"
+   ]
+  },
+  {
+   "id": "reel_56_listing_expired",
+   "kind": "reel",
+   "title": "Listing expired. “What would you do differently?”",
+   "group": "Daily 11/18",
+   "date": "2026-11-18",
+   "caption": "Their listing expired. They asked what you'd do differently. You replied five days later.\nEryn drafts the reply that day and asks to see the home. You hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_56_listing_expired.mp4"
+   ]
+  },
+  {
+   "id": "carousel_still_available",
+   "kind": "carousel",
+   "title": "“Is 1820 Oak St still available?” → With Eryn",
+   "group": "Daily 11/18",
+   "date": "2026-11-18",
+   "caption": "“Is it still available?” Two days later is too late.\nSwipe for the same lead with Eryn: the reply drafted the day they asked.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/carousel_still_available_1.jpg",
+    "s/carousel_still_available_2.jpg"
+   ]
+  },
+  {
+   "id": "carousel_listing_expired",
+   "kind": "carousel",
+   "title": "Listing expired → With Eryn",
+   "group": "Daily 11/18",
+   "date": "2026-11-18",
+   "caption": "An expired listing asked what you'd do differently. Five days later, they relisted with someone else.\nSwipe for the same seller with Eryn: the reply drafted the day she asked.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/carousel_listing_expired_1.jpg",
+    "s/carousel_listing_expired_2.jpg"
+   ]
+  },
+  {
+   "id": "carousel_preapproved",
+   "kind": "carousel",
+   "title": "“Just got pre-approved.” → With Eryn",
+   "group": "Daily 11/18",
+   "date": "2026-11-18",
+   "caption": "A pre-approved buyer is the hottest lead you have. Three days is too long.\nSwipe for the same buyer with Eryn: the reply drafted the day he asked.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/carousel_preapproved_1.jpg",
+    "s/carousel_preapproved_2.jpg"
+   ]
+  },
+  {
    "id": "reel_47_when_to_list",
    "kind": "reel",
    "title": "Seller asks when to list? You answered six days later.",
@@ -15,10 +84,10 @@
   {
    "id": "reel_51_neighbor_selling",
    "kind": "reel",
-   "title": "\u201cMy neighbor is thinking of selling.\u201d You replied five days later.",
+   "title": "“My neighbor is thinking of selling.” You replied five days later.",
    "group": "Daily 11/17",
    "date": "2026-11-17",
-   "caption": "Your past client wrote: \u201cMy neighbor is thinking of selling.\u201d You replied five days later.\nEryn drafts the thank-you that day. You hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "caption": "Your past client wrote: “My neighbor is thinking of selling.” You replied five days later.\nEryn drafts the thank-you that day. You hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
    "files": [
     "r/reel_51_neighbor_selling.mp4"
    ]
@@ -26,7 +95,7 @@
   {
    "id": "reel_52_moving_denver",
    "kind": "reel",
-   "title": "Moving from Denver. \u201cCan you help?\u201d You replied four days later.",
+   "title": "Moving from Denver. “Can you help?” You replied four days later.",
    "group": "Daily 11/17",
    "date": "2026-11-17",
    "caption": "A family moving from Denver asked for help finding a 3 bedroom. You replied four days later.\nEryn drafts the reply the day they ask. You hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
@@ -37,10 +106,10 @@
   {
    "id": "carousel_when_to_list",
    "kind": "carousel",
-   "title": "\u201cWhen is a good time to list?\u201d",
+   "title": "“When is a good time to list?”",
    "group": "Daily 11/17",
    "date": "2026-11-17",
-   "caption": "\u201cWhen should we list?\u201d Six days later is too late.\nSwipe for the same seller with Eryn: the reply drafted the day she asked.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "caption": "“When should we list?” Six days later is too late.\nSwipe for the same seller with Eryn: the reply drafted the day she asked.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
    "files": [
     "s/carousel_when_to_list_1.jpg",
     "s/carousel_when_to_list_2.jpg"
@@ -49,7 +118,7 @@
   {
    "id": "carousel_neighbor_selling",
    "kind": "carousel",
-   "title": "\u201cMy neighbor is thinking of selling.\u201d",
+   "title": "“My neighbor is thinking of selling.”",
    "group": "Daily 11/17",
    "date": "2026-11-17",
    "caption": "Your past client sent a referral. You replied five days later.\nSwipe for the same referral with Eryn.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
@@ -61,10 +130,10 @@
   {
    "id": "carousel_moving_denver",
    "kind": "carousel",
-   "title": "Moving from Denver. \u201cCan you help?\u201d",
+   "title": "Moving from Denver. “Can you help?”",
    "group": "Daily 11/17",
    "date": "2026-11-17",
-   "caption": "Moving from Denver: \u201cCan you help?\u201d You replied four days later.\nSwipe for the same move with Eryn.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "caption": "Moving from Denver: “Can you help?” You replied four days later.\nSwipe for the same move with Eryn.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
    "files": [
     "s/carousel_moving_denver_1.jpg",
     "s/carousel_moving_denver_2.jpg"
@@ -1048,7 +1117,7 @@
    "title": "Still available",
    "group": "Daily 11/14",
    "date": "2026-11-14",
-   "caption": "They asked \u201cis it still available?\u201d on Tuesday. You answered Thursday.\nEryn drafts the reply as soon as the lead lands. You read it and hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "caption": "They asked “is it still available?” on Tuesday. You answered Thursday.\nEryn drafts the reply as soon as the lead lands. You read it and hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
    "files": [
     "r/reel_27_still_available.mp4"
    ],
@@ -1072,7 +1141,7 @@
    "title": "Sounds good",
    "group": "Daily 11/14",
    "date": "2026-11-14",
-   "caption": "They said \u201csounds good, let's talk.\u201d Then nobody sent the next email.\nEryn drafts the next one from what they said. Fix a line if you want, then hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "caption": "They said “sounds good, let's talk.” Then nobody sent the next email.\nEryn drafts the next one from what they said. Fix a line if you want, then hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
    "files": [
     "r/reel_29_sounds_good.mp4"
    ],
@@ -1096,7 +1165,7 @@
    "title": "Let me know",
    "group": "Daily 11/14",
    "date": "2026-11-14",
-   "caption": "Stop ending your emails with \u201clet me know.\u201d\nAsk one question they can answer in a word, like \u201cIs Saturday at 10 still good?\u201d Eryn drafts them that way.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "caption": "Stop ending your emails with “let me know.”\nAsk one question they can answer in a word, like “Is Saturday at 10 still good?” Eryn drafts them that way.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
    "files": [
     "r/reel_32_let_me_know.mp4"
    ],
@@ -1132,7 +1201,7 @@
    "title": "Rc50",
    "group": "Daily 11/14",
    "date": "2026-11-14",
-   "caption": "They said \u201csounds good.\u201d Then nobody sent the next email.\n(Example math, sources on the image.) Eryn drafts the next email from what they said.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "caption": "They said “sounds good.” Then nobody sent the next email.\n(Example math, sources on the image.) Eryn drafts the next email from what they said.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
    "files": [
     "s/static_rc50.jpg"
    ],
