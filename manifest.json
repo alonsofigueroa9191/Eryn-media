@@ -2,6 +2,76 @@
  "defaultCaption": "Eryn drafts your follow-ups as soon as a lead comes in. You read it and hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
  "items": [
   {
+   "id": "reel_62_cash_offer",
+   "kind": "reel",
+   "title": "Seller: “We got a cash offer. Is it fair?” You replied a week later.",
+   "group": "Daily 11/19",
+   "date": "2026-11-19",
+   "caption": "A seller got a cash offer in the mail and asked if it was fair. You replied a week later. They listed with another agent.\nEryn drafts the reply the day they ask and offers to come see the home. You change one line and hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_62_cash_offer.mp4"
+   ]
+  },
+  {
+   "id": "reel_63_new_baby",
+   "kind": "reel",
+   "title": "“We just had a baby. We need more room.” You replied four days later.",
+   "group": "Daily 11/19",
+   "date": "2026-11-19",
+   "caption": "A buyer wrote: “We just had a baby. We need more room.” You replied four days later.\nEryn drafts the reply the day they write and offers a time to talk. You hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "r/reel_63_new_baby.mp4"
+   ]
+  },
+  {
+   "id": "carousel_cash_offer",
+   "kind": "carousel",
+   "title": "“We got a cash offer in the mail. Is it fair?” → Same seller. With Eryn.",
+   "group": "Daily 11/19",
+   "date": "2026-11-19",
+   "caption": "“We got a cash offer in the mail. Is it fair?” A week later is too late.\nSwipe for the same seller with Eryn: the reply drafted the day he asked.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/carousel_cash_offer_1.jpg",
+    "s/carousel_cash_offer_2.jpg"
+   ]
+  },
+  {
+   "id": "carousel_referral",
+   "kind": "carousel",
+   "title": "“My sister said I should email you.” → Same referral. With Eryn.",
+   "group": "Daily 11/19",
+   "date": "2026-11-19",
+   "caption": "A referral wrote: “My sister said I should email you.” You replied five days later.\nSwipe for the same referral with Eryn: the reply drafted the day he wrote.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/carousel_referral_1.jpg",
+    "s/carousel_referral_2.jpg"
+   ]
+  },
+  {
+   "id": "carousel_new_baby",
+   "kind": "carousel",
+   "title": "“We just had a baby. We need more room.” → Same buyer. With Eryn.",
+   "group": "Daily 11/19",
+   "date": "2026-11-19",
+   "caption": "“We just had a baby. We need more room.” Four days later, they bought with another agent.\nSwipe for the same buyer with Eryn: the reply drafted the day she wrote.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/carousel_new_baby_1.jpg",
+    "s/carousel_new_baby_2.jpg"
+   ]
+  },
+  {
+   "id": "carousel_bidding_war",
+   "kind": "carousel",
+   "title": "“We lost a bidding war. Help us win the next one?” → Same buyer. With Eryn.",
+   "group": "Daily 11/19",
+   "date": "2026-11-19",
+   "caption": "They lost a bidding war and asked for help winning the next one. You replied two days later.\nSwipe for the same buyer with Eryn: the reply drafted the day she asked.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
+   "files": [
+    "s/carousel_bidding_war_1.jpg",
+    "s/carousel_bidding_war_2.jpg"
+   ]
+  },
+  {
    "id": "reel_61_still_available",
    "kind": "reel",
    "title": "“Is it still available?” You replied two days later.",
