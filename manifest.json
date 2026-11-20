@@ -2,6 +2,96 @@
  "defaultCaption": "Eryn drafts your follow-ups as soon as a lead comes in. You read it and hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
  "items": [
   {
+   "id": "reel_71_before_coffee",
+   "kind": "reel",
+   "title": "Your inbox, before coffee. Each reply already drafted.",
+   "group": "Daily 11/20",
+   "date": "2026-11-20",
+   "caption": "Real estate agents: this is your inbox before coffee.\nEach reply already drafted from what the lead said. Read it, send it, next. Nothing sends until you click.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #solorealtor #realestatetips #crm",
+   "files": [
+    "r/reel_71_before_coffee.mp4"
+   ]
+  },
+  {
+   "id": "reel_74_947_pm",
+   "kind": "reel",
+   "title": "A lead writes at 9:47 PM. You're asleep. Eryn drafts the reply.",
+   "group": "Daily 11/20",
+   "date": "2026-11-20",
+   "caption": "Real estate agents: the 9:47 PM lead.\nYou're asleep. Eryn drafts the reply. It's waiting when you wake up, and nothing sends until you click.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #leadfollowup #realestatetips #crm",
+   "files": [
+    "r/reel_74_947_pm.mp4"
+   ]
+  },
+  {
+   "id": "reel_68_fix_roof",
+   "kind": "reel",
+   "title": "Seller: “Do we need to fix the roof before we list?” You replied six days later.",
+   "group": "Daily 11/20",
+   "date": "2026-11-20",
+   "caption": "Real estate agents: a seller asks \"Do we need to fix the roof before we list?\" and you answer six days later.\nBy then they've already talked to someone else. Eryn drafts the reply the day they ask, from what they said. You read it and hit Send.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #listingagent #realestatetips #followup",
+   "files": [
+    "r/reel_68_fix_roof.mp4"
+   ]
+  },
+  {
+   "id": "static_hana",
+   "kind": "static",
+   "title": "A lead wrote at 9:47 PM. The reply was drafted by morning.",
+   "group": "Daily 11/20",
+   "date": "2026-11-20",
+   "caption": "Real estate agents: a lead wrote at 9:47 PM. The reply was drafted by morning.\nNothing sends until you click.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #leadfollowup #crm #realestatetips",
+   "files": [
+    "s/static_hana.jpg"
+   ]
+  },
+  {
+   "id": "carousel_roof",
+   "kind": "carousel",
+   "title": "“Do we need to fix the roof before we list?” → Same seller. With Eryn.",
+   "group": "Daily 11/20",
+   "date": "2026-11-20",
+   "caption": "Real estate agents: \"Do we need to fix the roof before we list?\" Six days to answer is a listing lost.\nSlide 2: the same seller, with Eryn. The reply was drafted the day she asked.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #listingagent #realtorlife #followup #realestatetips",
+   "files": [
+    "s/carousel_roof_1.jpg",
+    "s/carousel_roof_2.jpg"
+   ]
+  },
+  {
+   "id": "carousel_school",
+   "kind": "carousel",
+   "title": "“We need to move before school starts.” → Same buyer. With Eryn.",
+   "group": "Daily 11/20",
+   "date": "2026-11-20",
+   "caption": "Real estate agents: \"We need to move before school starts.\" That family has a deadline.\nSlide 2: the same buyer, with Eryn. Reply drafted the day she wrote.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #familyhome #followup #realestatetips",
+   "files": [
+    "s/carousel_school_1.jpg",
+    "s/carousel_school_2.jpg"
+   ]
+  },
+  {
+   "id": "static_sofia",
+   "kind": "static",
+   "title": "“Can you talk to my parents?” Your reply is ready.",
+   "group": "Daily 11/20",
+   "date": "2026-11-20",
+   "caption": "Real estate agents: \"Can you talk to my parents?\" Your reply is ready.\nEryn drafts from what she said. You read it and send it.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #downsizing #realtorlife #followup #crm",
+   "files": [
+    "s/static_sofia.jpg"
+   ]
+  },
+  {
+   "id": "static_lauren",
+   "kind": "static",
+   "title": "“We found a house we love.” The next step is drafted.",
+   "group": "Daily 11/20",
+   "date": "2026-11-20",
+   "caption": "Real estate agents: \"We found a house we love.\" The next step is already drafted.\nEryn drafts the reply from what they said. You read it, you send it.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #buyersagent #crm #realestatetips",
+   "files": [
+    "s/static_lauren.jpg"
+   ]
+  },
+  {
    "id": "reel_62_cash_offer",
    "kind": "reel",
    "title": "Seller: “We got a cash offer. Is it fair?” You replied a week later.",
