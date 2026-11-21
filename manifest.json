@@ -2,6 +2,119 @@
  "defaultCaption": "Eryn drafts your follow-ups as soon as a lead comes in. You read it and hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
  "items": [
   {
+   "id": "reel_76_relocating",
+   "kind": "reel",
+   "title": "Seller: “We're relocating for work in March. When should we list?” Receipt, then two sends.",
+   "group": "Daily 11/21",
+   "date": "2026-11-21",
+   "caption": "Real estate agents: \"We're relocating in March. When should we list?\" is a listing asking to happen.\nAnswer five days later and they list with someone else. Eryn drafts the reply the day they ask, from what they said. You read it and hit Send.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #listingagent #realtorlife #realestatetips #followup",
+   "files": [
+    "r/reel_76_relocating.mp4"
+   ]
+  },
+  {
+   "id": "reel_77_showing",
+   "kind": "reel",
+   "title": "You were at a showing for two hours. Your inbox filled up. Three sends in a row.",
+   "group": "Daily 11/21",
+   "date": "2026-11-21",
+   "caption": "Real estate agents: two hours at a showing, three new emails waiting.\nEryn drafted each reply from what the lead wrote. You read them and send all three before your next appointment.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #buyersagent #realestatemarketing #crm",
+   "files": [
+    "r/reel_77_showing.mp4"
+   ]
+  },
+  {
+   "id": "reel_83_thanksgiving",
+   "kind": "reel",
+   "title": "Leads don't stop for Thanksgiving. You read. You send. Back to dinner. (post by Wed Nov 25)",
+   "group": "Daily 11/21",
+   "date": "2026-11-21",
+   "caption": "Real estate agents: leads don't stop for Thanksgiving.\nEryn drafts the replies while you're with family. You read, you send, you go back to dinner.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #thanksgiving #solorealtor #followup",
+   "files": [
+    "r/reel_83_thanksgiving.mp4"
+   ]
+  },
+  {
+   "id": "reel_82_past_client",
+   "kind": "reel",
+   "title": "A past client writes “We're thinking of selling.” Then a referral. Both drafted.",
+   "group": "Daily 11/21",
+   "date": "2026-11-21",
+   "caption": "Real estate agents: a past client writes \"We're thinking of selling.\" Then another sends a referral.\nEryn drafts both replies the day they write. You read them and hit Send.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #pastclients #referrals #realtorlife #listingagent",
+   "files": [
+    "r/reel_82_past_client.mp4"
+   ]
+  },
+  {
+   "id": "carousel_referral",
+   "kind": "carousel",
+   "title": "“Our friends are looking for a home. Can I give them your email?” → Same past client. With Eryn.",
+   "group": "Daily 11/21",
+   "date": "2026-11-21",
+   "caption": "Real estate agents: a past client asks \"Can I give my friends your email?\" Answer a week later and the referral goes elsewhere.\nSwipe: with Eryn, the reply is drafted the day they ask. Example math, sources on the receipt.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #referrals #pastclients #realtorlife #followup",
+   "files": [
+    "s/carousel_referral_1.jpg",
+    "s/carousel_referral_2.jpg"
+   ]
+  },
+  {
+   "id": "carousel_relocating",
+   "kind": "carousel",
+   "title": "“We're relocating for work in March. When should we list?” → Same seller. With Eryn.",
+   "group": "Daily 11/21",
+   "date": "2026-11-21",
+   "caption": "Real estate agents: \"We're relocating in March. When should we list?\" Reply five days later and they list with another agent.\nSwipe: the same seller with Eryn. The reply is drafted the day they ask, you send it. Example math, sources on the receipt.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #listingagent #realtorlife #followup #realestatetips",
+   "files": [
+    "s/carousel_relocating_1.jpg",
+    "s/carousel_relocating_2.jpg"
+   ]
+  },
+  {
+   "id": "carousel_never_bought",
+   "kind": "carousel",
+   "title": "“We've never bought a home before. Is that okay?” → Same buyer. With Eryn.",
+   "group": "Daily 11/21",
+   "date": "2026-11-21",
+   "caption": "Real estate agents: \"We've never bought a home. Is that okay?\" Wait four days and they buy with someone else.\nSwipe: the same buyer with Eryn. A warm reply, drafted the day they ask. Example math, sources on the receipt.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #firsttimehomebuyer #buyersagent #realtorlife #followup",
+   "files": [
+    "s/carousel_never_bought_1.jpg",
+    "s/carousel_never_bought_2.jpg"
+   ]
+  },
+  {
+   "id": "static_dana",
+   "kind": "static",
+   "title": "“Is the price firm?” The reply is drafted.",
+   "group": "Daily 11/21",
+   "date": "2026-11-21",
+   "caption": "Real estate agents: an open house visitor asks \"Is the price firm?\"\nThe honest reply: thank them, check with the sellers, offer a second look. Eryn drafts it. Nothing sends until you do.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #openhouse #listingagent #realtorlife #followup",
+   "files": [
+    "s/static_dana.jpg"
+   ]
+  },
+  {
+   "id": "static_frank",
+   "kind": "static",
+   "title": "A past client wants to sell. Your reply is ready.",
+   "group": "Daily 11/21",
+   "date": "2026-11-21",
+   "caption": "Real estate agents: a past client you helped buy wants to sell. Your reply is ready the day they write.\nEryn drafts it from what they said. You read it, you send it.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #pastclients #listingagent #realtorlife #followup",
+   "files": [
+    "s/static_frank.jpg"
+   ]
+  },
+  {
+   "id": "static_kevin",
+   "kind": "static",
+   "title": "“We're moving here from Denver.” Your reply is ready.",
+   "group": "Daily 11/21",
+   "date": "2026-11-21",
+   "caption": "Real estate agents: \"We're moving here from Denver. Where do we even start?\"\nYour reply is ready: welcome them and ask what they loved about home. Eryn drafts it from what they said. You read it, you send it.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #relocation #buyersagent #realtorlife #followup",
+   "files": [
+    "s/static_kevin.jpg"
+   ]
+  },
+  {
    "id": "reel_71_before_coffee",
    "kind": "reel",
    "title": "Your inbox, before coffee. Each reply already drafted.",
@@ -123,18 +236,6 @@
    "files": [
     "s/carousel_cash_offer_1.jpg",
     "s/carousel_cash_offer_2.jpg"
-   ]
-  },
-  {
-   "id": "carousel_referral",
-   "kind": "carousel",
-   "title": "“My sister said I should email you.” → Same referral. With Eryn.",
-   "group": "Daily 11/19",
-   "date": "2026-11-19",
-   "caption": "A referral wrote: “My sister said I should email you.” You replied five days later.\nSwipe for the same referral with Eryn: the reply drafted the day he wrote.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
-   "files": [
-    "s/carousel_referral_1.jpg",
-    "s/carousel_referral_2.jpg"
    ]
   },
   {
