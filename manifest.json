@@ -2,6 +2,163 @@
  "defaultCaption": "Eryn drafts your follow-ups as soon as a lead comes in. You read it and hit Send.\n\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #realestatetips #solorealtor #followup",
  "items": [
   {
+   "id": "reel_84_listing_expires",
+   "kind": "reel",
+   "title": "Seller: “Our listing with another agent expires Friday. Can we talk?” Receipt, then two sends.",
+   "group": "Daily 11/22",
+   "date": "2026-11-22",
+   "caption": "Real estate agents: \"Our listing with another agent expires Friday. Can we talk?\" is a listing asking to switch.\nReply a week later and they relist with someone else. Eryn drafts the reply the day they ask. You read it and hit Send.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #listingagent #expiredlistings #realtorlife #followup",
+   "files": [
+    "r/reel_84_listing_expires.mp4"
+   ]
+  },
+  {
+   "id": "reel_89_see_it_today",
+   "kind": "reel",
+   "title": "Buyer: “Can we see it today?” You're at a closing. Two sends. (post on a weekday)",
+   "group": "Daily 11/22",
+   "date": "2026-11-22",
+   "caption": "Real estate agents: \"Can we see it today?\" arrives while you're busy.\nThe reply is already drafted. You hit Send between appointments, then the next one.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #buyersagent #realtorlife #showings #followup",
+   "files": [
+    "r/reel_89_see_it_today.mp4"
+   ]
+  },
+  {
+   "id": "reel_86_sunday_morning",
+   "kind": "reel",
+   "title": "Sunday morning. Buyers wrote in. Three sends, then brunch. (post today, Sunday only)",
+   "group": "Daily 11/22",
+   "date": "2026-11-22",
+   "caption": "Real estate agents: Sunday morning, and buyers already wrote in.\nEach reply is drafted from what they asked. You read, you send, you make brunch.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #buyersagent #realestatetips #crm",
+   "files": [
+    "r/reel_86_sunday_morning.mp4"
+   ]
+  },
+  {
+   "id": "reel_88_student_loans",
+   "kind": "reel",
+   "title": "“I have student loans. Can I still buy a home?” A good reply: offer a lender intro.",
+   "group": "Daily 11/22",
+   "date": "2026-11-22",
+   "caption": "Real estate agents: \"I have student loans. Can I still buy a home?\"\nA good reply offers a lender intro and a meeting. Eryn drafts it that way, from what she said. You read it and send.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #firsttimehomebuyer #realtorlife #realestatetips #followup",
+   "files": [
+    "r/reel_88_student_loans.mp4"
+   ]
+  },
+  {
+   "id": "reel_91_dads_house",
+   "kind": "reel",
+   "title": "“My dad is moving to assisted living.” She needs a kind reply. Two sends.",
+   "group": "Daily 11/22",
+   "date": "2026-11-22",
+   "caption": "Real estate agents: \"My dad is moving to assisted living. Can you help us sell his house?\"\nShe needs a kind reply today. Eryn drafted one at her family's pace. You read it and send.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #listingagent #seniorliving #realtorlife #followup",
+   "files": [
+    "r/reel_91_dads_house.mp4"
+   ]
+  },
+  {
+   "id": "reel_85_ready_now",
+   "kind": "reel",
+   "title": "An old lead writes: “We're ready now.” Two sends.",
+   "group": "Daily 11/22",
+   "date": "2026-11-22",
+   "caption": "Real estate agents: the lead who toured with you last year just wrote \"We're ready now.\"\nEryn drafted the reply from what they said. You read it, hit Send, and the next one is already drafted too.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #realtorlife #buyersagent #followup #leadnurturing",
+   "files": [
+    "r/reel_85_ready_now.mp4"
+   ]
+  },
+  {
+   "id": "reel_87_grandkids",
+   "kind": "reel",
+   "title": "A buyer: “We want to move closer to our grandkids.” Two sends. (post by Tue)",
+   "group": "Daily 11/22",
+   "date": "2026-11-22",
+   "caption": "Real estate agents: \"We want to move closer to our grandkids.\" That's a buyer ready to move.\nEryn drafted a warm reply that asks where the grandkids live. You read it and hit Send.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #buyersagent #realtorlife #realestatetips #followup",
+   "files": [
+    "r/reel_87_grandkids.mp4"
+   ]
+  },
+  {
+   "id": "static_lily",
+   "kind": "static",
+   "title": "“I have student loans. Can I still buy a home?” The reply is drafted.",
+   "group": "Daily 11/22",
+   "date": "2026-11-22",
+   "caption": "Real estate agents: \"I have student loans. Can I still buy a home?\"\nEryn drafts a reply that offers a lender intro. Nothing sends until you do.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #firsttimehomebuyer #realtorlife #followup #realestatetips",
+   "files": [
+    "s/static_lily.jpg"
+   ]
+  },
+  {
+   "id": "static_nora",
+   "kind": "static",
+   "title": "“We got pre-approved today.” The reply is drafted.",
+   "group": "Daily 11/22",
+   "date": "2026-11-22",
+   "caption": "Real estate agents: \"We got pre-approved today. Can we start looking?\"\nEryn drafts the reply the same day. You read it and send.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #buyersagent #preapproved #realtorlife #followup",
+   "files": [
+    "s/static_nora.jpg"
+   ]
+  },
+  {
+   "id": "static_elle",
+   "kind": "static",
+   "title": "“Should we put in a pool before we sell?” Your reply is ready.",
+   "group": "Daily 11/22",
+   "date": "2026-11-22",
+   "caption": "Real estate agents: \"Should we put in a pool before we sell?\"\nAnswer before they spend. Eryn drafts the reply, you read it and send.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #listingagent #sellingahome #realtorlife #realestatetips",
+   "files": [
+    "s/static_elle.jpg"
+   ]
+  },
+  {
+   "id": "static_walt",
+   "kind": "static",
+   "title": "“We want to move closer to our grandkids.” Your reply is ready.",
+   "group": "Daily 11/22",
+   "date": "2026-11-22",
+   "caption": "Real estate agents: \"We want to move closer to our grandkids.\"\nEryn drafts the reply from what they said. You read it and send.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #buyersagent #realtorlife #followup #realestatetips",
+   "files": [
+    "s/static_walt.jpg"
+   ]
+  },
+  {
+   "id": "carousel_107",
+   "kind": "carousel",
+   "title": "Carousel · “Our listing with another agent expires Friday. Can we talk?” → Same seller. With Eryn.",
+   "group": "Daily 11/22",
+   "date": "2026-11-22",
+   "caption": "Real estate agents: \"Our listing with another agent expires Friday. Can we talk?\" Reply a week later and they relist with someone else.\nSwipe: the same seller with Eryn. The reply is drafted the day they ask. Example math, sources on the receipt.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #listingagent #expiredlistings #realtorlife #followup",
+   "files": [
+    "s/carousel_107_1.jpg",
+    "s/carousel_107_2.jpg"
+   ]
+  },
+  {
+   "id": "carousel_109",
+   "kind": "carousel",
+   "title": "Carousel · “Is the Cedar St house still available? Can we see it today?” → Same buyer. With Eryn.",
+   "group": "Daily 11/22",
+   "date": "2026-11-22",
+   "caption": "Real estate agents: \"Can we see it today?\" Reply two days later and they buy with another agent.\nSwipe: with Eryn, the reply is drafted the day they ask. Example math, sources on the receipt.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #buyersagent #showings #realtorlife #followup",
+   "files": [
+    "s/carousel_109_1.jpg",
+    "s/carousel_109_2.jpg"
+   ]
+  },
+  {
+   "id": "carousel_108",
+   "kind": "carousel",
+   "title": "Carousel · “We toured with you last year. We're ready now.” → Same buyer. With Eryn.",
+   "group": "Daily 11/22",
+   "date": "2026-11-22",
+   "caption": "Real estate agents: an old lead writes \"We're ready now.\" Reply four days later and they go with another agent.\nSwipe: with Eryn, the reply is drafted the day they write. Example math, sources on the receipt.\nTry Eryn free for 7 days, link in bio.\n#realestateagent #buyersagent #leadnurturing #realtorlife #followup",
+   "files": [
+    "s/carousel_108_1.jpg",
+    "s/carousel_108_2.jpg"
+   ]
+  },
+  {
    "id": "reel_76_relocating",
    "kind": "reel",
    "title": "Seller: “We're relocating for work in March. When should we list?” Receipt, then two sends.",
